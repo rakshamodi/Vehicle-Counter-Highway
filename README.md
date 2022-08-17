@@ -1,2 +1,2 @@
 # Vehicle-Counter-Highway
-# Counting vehicles passing on highway
+Counting vehicles passing on highway
